@@ -1,4 +1,4 @@
-# # Hi 👋, I'm Twinkle (Twinkle2424)
+# # Hi 👋, I'm Twinkle Patel
 
 > Short tagline / one-liner: building delightful web experiences • open-source enthusiast
 
