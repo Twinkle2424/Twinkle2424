@@ -1,56 +1,64 @@
-#  Hi 👋, I'm Twinkle Patel
+# Hi 👋, I'm Twinkle Patel
 
-> Short tagline / one-liner: building delightful web experiences • open-source enthusiast
-
----
-
-### About Me
-- 🔭 I’m currently working on: **YOUR_CURRENT_PROJECT_OR_ROLE**
-- 🌱 I’m learning: **NEXT_TECH_TO_LEARN** (e.g., GraphQL, Rust, ML)
-- 👯 I’m looking to collaborate on: open-source web apps, developer tools, and UI/UX improvements
-- 💬 Ask me about: JavaScript, React, TypeScript, Node.js
-- ⚡ Fun fact: I love photography and coffee ☕️
+> IT Student • Aspiring Data Analyst & Web Developer • Learning by building real projects
 
 ---
 
-### Skills
+## 👩‍💻 About Me
+- 🎓 I’m an **IT student**
+- 🔭 Currently working on: **DesignDeck – MERN stack web application**
+- 🌱 I’m learning: **Advanced Data Analytics & MERN Stack**
+- 👯 Looking to collaborate on: **student projects, data analytics, and web apps**
+- 💬 Ask me about: **Python, SQL, Power BI, MERN Stack**
+- ⚡ Fun fact: I enjoy learning new tools and improving my skills every day 🚀
+
+---
+
+## 🛠️ Skills
+
+### 📊 Data Analytics
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### GitHub Stats
-<!-- Replace username=Twinkle2424 with your username -->
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Twinkle2424&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twinkle2424&layout=compact&theme=react)
 
 ---
 
-### Featured Projects
-- [Project-One](https://github.com/Twinkle2424/project-one) — Short one-line description (what problem it solves, tech used)
-- [Project-Two](https://github.com/Twinkle2424/project-two) — Short one-line description
-- [Project-Three](https://github.com/Twinkle2424/project-three) — Short one-line description
+## 📂 Featured Projects
+- **DesignDeck** — MERN stack project with authentication, dashboard, and project management
+- **Data Analysis Projects** — Python, Excel, Power BI & Tableau based analysis
+- **SQL Practice Projects** — Queries, joins, and database design
 
-(Choose 3–6 best projects and pin them on your GitHub profile)
-
----
-
-### Experience & Contact
-- 💼 Currently: YOUR_COMPANY_OR_ROLE
-- 📫 How to reach me: [email@example.com](mailto:email@example.com) or [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🌐 Portfolio: https://your-portfolio.example
+*(More projects coming soon 🚀)*
 
 ---
 
-### What I use daily
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, PostgreSQL
-- DevOps: Docker, GitHub Actions
+## 📫 Contact & Links
+- 💼 Role: **Student / Fresher**
+- 📧 Email: *(add your email here)*
+- 🔗 LinkedIn: *(add your LinkedIn profile link here)*
 
 ---
 
-Thanks for stopping by! 👋  
-Feel free to connect — I'm always open to collaboration and interesting projects.
+### ✨ Thanks for visiting my profile!
+I’m always eager to learn, grow, and collaborate on meaningful projects.
